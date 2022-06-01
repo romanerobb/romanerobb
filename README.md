@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romanerobb
+- 👋 Hi, I’m @romanerobb on Github and @robbromane on Instagram.
 
 - 👀 I’m currently interested in projects that use the following programming languages and technologies: HTML, CSS, JavaScript, Python, SQL, BootStrap, Go, SpringBoot, Node.js, Bash, React, Angular, Django, Flask, Docker and Java.
 
