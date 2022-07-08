@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romanerobb on Github and @robbromane on Instagram.
 
-- 👀 I’m currently interested in projects that use the following programming languages and technologies: HTML, CSS, JavaScript, Java, React, SQL, BootStrap, Material UI, Spring Boot, and Node.js.
+- 👀 I’m currently interested in projects that use the following programming languages and technologies: Full-Stack Software Engineer | JavaScript | Microsoft Azure | Amazon Web Services | SQL | React | Nodejs | HTML | CSS | Material UI | BootStrap | PostgreSQL | Tailwind CSS | Axios | Spring Boot| Docker | Java | Git
 
 - 🌱 I’m currently learning how to fully utlilize my full stack capabilities.
 
