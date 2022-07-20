@@ -10,5 +10,5 @@
 
 ## Click the image below to watch/listen to my podcast.
 
-[![Romane Robb Zoom Background](https://user-images.githubusercontent.com/75688766/180051922-68bac10d-87a4-4a09-b88f-2cf75c163a55.jpg)](https://www.youtube.com/playlist?list=PLLuXi2d0VZL80xFLno2__CMVG0sA5l3vO)
+[![Romane Robb Zoom Background](https://user-images.githubusercontent.com/75688766/180051922-68bac10d-87a4-4a09-b88f-2cf75c163a55.jpg)](https://rorobb.com/podcast/)
 
