@@ -1,5 +1,9 @@
 ## 👀 I’m currently interested in projects that use the following programming languages and technologies: Full-Stack Software Engineer | JavaScript | Microsoft Azure | Amazon Web Services | SQL | React | Nodejs | HTML | CSS | Material UI | BootStrap | PostgreSQL | Tailwind CSS | Axios | Spring Boot| Docker | Java | Git
 
+## 👋 Hi, I’m @romanerobb on Github and @robbromane on Instagram.
+
+________________________________________________________________________________________________________
+
 ## Click the image below to read my Medium articles.
 
 
