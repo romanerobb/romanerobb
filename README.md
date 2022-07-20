@@ -2,11 +2,13 @@
 
 ## 👋 Hi, I’m @romanerobb on Github and @robbromane on Instagram.
 
+## 📫 You can reach me at se@romanerobb.com or mail@romanerobb.com. My website is: rorobb.com
+
 ________________________________________________________________________________________________________
 
 ## Click the image below to read my Medium articles.
 
-
+![Romane Robb HD laptop sleeve](https://user-images.githubusercontent.com/75688766/180053918-927a9700-a482-44a3-b7bb-158707ac6c44.jpg)](https://medium.rorobb.com/)
 
 ## Click the image below to watch my tutorials and other tech related videos.
 
