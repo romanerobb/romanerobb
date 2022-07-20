@@ -1,7 +1,6 @@
 ## Welcome to my GitHub. Check out my content below:
 
-
-
+[![Romane Robb HD software engineer](https://user-images.githubusercontent.com/75688766/180058552-3a28b69a-0854-4e8b-a9e7-fc69aef8fa5b.jpg)](https://medium.rorobb.com/
 ________________________________________________________________________________________________________
 
 ## Click the image below to read my Medium articles.
